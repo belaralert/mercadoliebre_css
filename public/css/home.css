@@ -1,0 +1,33 @@
+body{
+    margin: 0%;
+    }
+header{
+    background-color: #EAC926;
+    width: 100%;
+    font-size: 12px;
+}
+header li{
+    list-style: none;
+}
+
+/* productos */
+article{
+    align-content: center;
+    
+}
+article img{
+    width: 100px
+}
+h2{
+    font-size: 24px;
+}
+
+article .precios{
+    font-size: 18px;
+}
+article .descuentos{
+    font-size: 16px;
+}
+h3{
+    font-size: 16px;
+}
